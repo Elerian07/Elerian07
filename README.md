@@ -1,5 +1,5 @@
 # 💫 About Me:
-  🙋‍♂️ I am a Backend Node.js Developer.<br>  📫 Shoot me an Email = elerian930@gmail.com or add me on Linkedin ✌️ 
+  🙋‍♂️ I am a Backend Node.js Developer.<br>  📫 Shoot me an Email or add me on Linkedin ✌️ 
 
 
 ## 🌐 Socials:
